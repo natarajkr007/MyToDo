@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+
+    <string name="sign_out">Logout</string>
+    <!-- It's just a space -->
+    <string name="nothing" translatable="false"> </string>
+    <string name="is_logged_in" translatable="false">isLoggedIn</string>
+    <!-- Shared Preferences file name -->
+    <string name="pref_file_name" translatable="false">todo_prefs</string>
+    <string name="failure_sign_in">Sign In unsuccessful. Please, try again! </string>
+</resources>

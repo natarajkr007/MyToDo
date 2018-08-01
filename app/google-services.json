@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608851195520",
+    "firebase_url": "https://mytodo-n007.firebaseio.com",
+    "project_id": "mytodo-n007",
+    "storage_bucket": "mytodo-n007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608851195520:android:7ead37c6a315810c",
+        "android_client_info": {
+          "package_name": "com.android.nataraj.mytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608851195520-1vg60oqt4k6pfgjevrs2v0k6kd4a5i56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.nataraj.mytodo",
+            "certificate_hash": "e89ecb9a3fdbf08255f3b87954b726cdb6dd58c0"
+          }
+        },
+        {
+          "client_id": "608851195520-us42gkqij85tq5trsbhtp29c4isc1uli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqYgDgSjNsswz156n_G__7ghlsLd4I-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608851195520-q5qra5vce6aisdn0mo9aho6kq46gj9em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
